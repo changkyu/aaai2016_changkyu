@@ -10,9 +10,9 @@ We propose new methods to speed up convergence of the Alternating DirectionMetho
 
 # Results
 
-![overview](./doc/img/aaai2016_result.png)
-![overview](./doc/img/aaai2016_result2.png)
-![overview](./doc/img/aaai2016_result3.png)
+![result1](./doc/img/aaai2016_result1.png)
+![result2](./doc/img/aaai2016_result2.png)
+![result3](./doc/img/aaai2016_result3.png)
 
 # Author
 
